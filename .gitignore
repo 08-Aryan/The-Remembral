@@ -1,5 +1,4 @@
- # GitIgnore In nodejs
-# Logs 
+
 logs
 *.log
 npm-debug.log*
@@ -8,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
+
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
